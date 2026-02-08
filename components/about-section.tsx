@@ -37,14 +37,10 @@ export function AboutSection() {
             Nosotros
           </span>
           <h2 className="mt-4 font-heading text-3xl font-bold text-foreground sm:text-4xl text-balance">
-            La Esencia de Shazelecoprint: Innovacion, Calidad y Sostenibilidad
+            La Esencia de Shazel Ecoprint: Innovación, Calidad y Sostenibilidad
           </h2>
           <p className="mt-6 text-muted-foreground leading-relaxed text-pretty">
-            En Shazelecoprint, somos mas que una empresa de impresion; somos visionarios en el arte
-            de transformar ideas en realidades tangibles y vibrantes. Nuestra mision es empoderar a
-            nuestros clientes brindandoles productos que no solo destacan por su acabado excepcional,
-            sino tambien por su compromiso con practicas sostenibles. Creemos en la impresion que deja
-            una huella duradera en la mente, no en el planeta.
+            La Esencia de Shazelecoprint: Innovación, Calidad y Sostenibilidad. En Shazelecoprint, somos más que una empresa de impresión; somos visionarios en el arte de transformar ideas en realidades tangibles y vibrantes. Nuestra misión es empoderar a nuestros clientes brindándoles productos que no solo destacan por su acabado excepcional, sino también por su compromiso con prácticas sostenibles. Creemos en la impresión que deja una huella duradera en la mente, no en el planeta.
           </p>
         </div>
 

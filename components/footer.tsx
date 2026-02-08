@@ -64,6 +64,9 @@ export function Footer() {
                   shazelecoprint@gmail.com
                 </a>
               </div>
+              <p className="text-sm text-muted-foreground mt-2">
+                Para reservar una cita, envía un correo electrónico a: shazelecoprint@gmail.com
+              </p>
             </div>
           </div>
         </div>
